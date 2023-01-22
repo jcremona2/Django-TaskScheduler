@@ -30,7 +30,7 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
+```
 
 This project was designed to run on a https://dashboard.render.com/ server CI/CD
 
