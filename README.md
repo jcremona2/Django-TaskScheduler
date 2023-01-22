@@ -1,14 +1,14 @@
 # Django-TaskScheduler
 
-* This is a sample Django Project to Create Read Update and Delete (CRUD) task on a list *
+* This is a sample Django Project to Create Read Update and Delete (CRUD) task on a list 
 
 * pip install -r requierments.txt *
 * To run it locally the DB settings must be modified, this is intended to work with a postgresql
 
 
-* This project was designed to run on a https://dashboard.render.com/ server CI/CD*
+* This project was designed to run on a https://dashboard.render.com/ server CI/CD
 
-* You can check the project on : https://djangoproject-qsbm.onrender.com *
+* You can check the project on : https://djangoproject-qsbm.onrender.com 
 
 
 
